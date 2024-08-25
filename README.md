@@ -1,6 +1,6 @@
 # ECE2112-PA1-PARAYNO
 
-This repo contains my PA1 for Introduction to Python Programming. Experiment 1 covers the basic codes and functions in Python Programming.
+This contains my PA1 for Introduction to Python Programming. Experiment 1 covers the basic codes and functions in Python Programming.
 
 # Experiment 1 Problems
 
